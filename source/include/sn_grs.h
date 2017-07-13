@@ -21,6 +21,7 @@
 extern "C" {
 #endif
 
+#include "sn_nsdl_lib.h"
 
 #define SN_GRS_RESOURCE_ALREADY_EXISTS  -2
 #define SN_GRS_INVALID_PATH             -3
